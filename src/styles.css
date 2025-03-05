@@ -1,0 +1,25 @@
+@import "tailwindcss";
+/* 
+
+.main {
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  gap: 10px;
+  margin: 40px;
+}
+
+.link {
+  border: 1px solid black;
+  padding: 20px 40px;
+  text-decoration: none;
+  color: black;
+  font-weight: bold;
+}
+
+.link:hover {
+  background-color: rgb(254, 149, 131);
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+} */
